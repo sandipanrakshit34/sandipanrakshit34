@@ -10,7 +10,7 @@
 
 <br/>
 
- <img align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" height ="150" />
+ <img align="right" src="https://github.com/sandipanrakshit34/sandipanrakshit34/blob/main/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" height ="165" />
  
  <p align="left">🌱 I’m currently learning **Docker, Supabase, AWS, Java, Oracle, Azure**
 
