@@ -10,7 +10,7 @@
 
 <br/>
 
- <img align="right" src="https://github.com/sandipanrakshit34/sandipanrakshit34/blob/main/engieer.gif" height ="165" />
+ <img align="right" src="https://github.com/sandipanrakshit34/sandipanrakshit34/blob/main/engineer.gif" height ="165" />
  
  <p align="left">🌱 I’m currently learning **Docker, Supabase, AWS, Java, Oracle, Azure**
 
