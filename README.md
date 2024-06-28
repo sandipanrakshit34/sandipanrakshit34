@@ -34,9 +34,9 @@ Mongodb, Tensorflow, AI&ML... or anything&nbsp;[here...](https://github.com/sand
 </div>
 <br>
 <hr>
+<h2 align="center">🔃 Connect with me: 🔃</h3>
+<br/>
 <div> 
-    <h3 align="center">🔃 Connect with me: 🔃</h3>
-    <br>
 <p align="center">
 <a href="https://twitter.com/@s_rakshit_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@s_rakshit_" height="30" width="40" /></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <a href="https://linkedin.com/in/sandipan-rakshit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandipan-rakshit" height="30" width="40" /></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
@@ -75,7 +75,7 @@ Mongodb, Tensorflow, AI&ML... or anything&nbsp;[here...](https://github.com/sand
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandipanrakshit34&show_icons=true&locale=en&layout=compact" alt="sandipanrakshit34" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandipanrakshit34&show_icons=true&locale=en" alt="sandipanrakshit34" /></p>
-
+</br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandipanrakshit34&" alt="sandipanrakshit34" /></p>
 
 </div>
