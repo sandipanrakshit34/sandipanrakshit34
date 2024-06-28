@@ -34,7 +34,7 @@ Mongodb, Tensorflow, AI&ML... or anything&nbsp;[here...](https://github.com/sand
 </div>
 <br>
 <hr>
-<h2 align="center">🔃 Connect with me: 🔃</h3>
+<h2 align="center">🔃 Connect with me: 🔃</h2>
 <br/>
 <div> 
 <p align="center">
