@@ -42,9 +42,6 @@ Mongodb, Tensorflow, AI&ML... or anything&nbsp;[here...](https://github.com/sand
 <br>
 <hr>
 
-<p align="center"> <a href="https://github.com/sandipanrakshit34"><img src="https://github-profile-trophy.vercel.app/?username=sandipanrakshit34" alt="sandipanrakshit34" /></a> </p>
-
-<hr>
 <h2 align="center">🔃 Connect with me: 🔃</h2>
 <br/>
 <div> 
