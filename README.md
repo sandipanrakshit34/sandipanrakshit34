@@ -74,13 +74,21 @@ Mongodb, Tensorflow, AI&ML... or anything&nbsp;[here...](https://github.com/sand
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandipanrakshit34&show_icons=true&locale=en&layout=compact" alt="sandipanrakshit34" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandipanrakshit34&show_icons=true&locale=en" alt="sandipanrakshit34" /></p>
-</br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandipanrakshit34&" alt="sandipanrakshit34" /></p>
-
-</div>
+    <a href="#">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=sandipanrakshit34&theme=react&border_radius=10&border=61DAFB" />
+    </a>
+    <a href="#">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=sandipanrakshit34&show_icons=true&theme=react&border_color=61dafb&border_radius=10&rank_icon=github" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="#">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandipanrakshit34&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&theme=react&border_color=61dafb&border_radius=10" />
+    </a>
+  </div>
+  <br>
+  <br>
 
 <br/><br/>
 
