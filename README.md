@@ -1,16 +1,22 @@
+<a href="https://github.com/sandipanrakshit34">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandipanrakshit34&label=Profile%20views&color=0e75b6&style=flat" alt="sandipanrakshit34" /> </p>
-
+</a>
+<a href="https://github.com/sandipanrakshit34">
+    
 ![logo](https://github.com/sandipanrakshit34/sandipanrakshit34/blob/main/Sandipan_Rakshit.png)
 
+</a>
 <h1 align="center">
+    <a href="https://github.com/sandipanrakshit34">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=34F700&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sandipan+Rakshit!;I'm+a+Data+Analyst;I'm+a+Computer+Vision+Engineer" />
+    </a>
 </h1>
 <h3 align="center">A passionate software developer and Computer Vision Engineer</h3>
 
 <br/>
-
+<a href="https://github.com/sandipanrakshit34">
  <img align="right" src="https://github.com/sandipanrakshit34/sandipanrakshit34/blob/main/engineer.gif" height ="180" />
- 
+ </a>
  <p align="left">
      🌱 I’m currently learning Docker, Supabase, AWS, Java, Oracle, Azure
 
@@ -54,8 +60,10 @@ Mongodb, Tensorflow, AI&ML... or anything&nbsp;[here...](https://github.com/sand
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
+    <a href="https://github.com/sandipanrakshit34">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r,azure" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    </a>
 </div>
 
 <br/>
@@ -64,34 +72,30 @@ Mongodb, Tensorflow, AI&ML... or anything&nbsp;[here...](https://github.com/sand
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
+<a href="https://github.com/sandipanrakshit34">
   <img alt="snake eating my contributions" src="https://github.com/sandipanrakshit34/sandipanrakshit34/blob/main/github-contribution-grid-snake-dark.svg" />
-  
+    </a>
   </br></br>
 </div>
-
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-    <a href="#">
+    <a href="https://github.com/sandipanrakshit34">
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=sandipanrakshit34&theme=react&border_radius=10&border=61DAFB" />
     </a>
-    <a href="#">
+    <a href="https://github.com/sandipanrakshit34">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=sandipanrakshit34&show_icons=true&theme=react&border_color=61dafb&border_radius=10&rank_icon=github" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
-    <a href="#">
+    <a href="https://github.com/sandipanrakshit34">
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandipanrakshit34&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&theme=react&border_color=61dafb&border_radius=10" />
     </a>
   </div>
   <br>
   <br>
-
-<br/><br/>
-
 <hr/>
-
 <br/>
