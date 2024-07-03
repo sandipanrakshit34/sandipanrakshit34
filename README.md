@@ -16,17 +16,18 @@
 <h3 align="center">A passionate software developer and Computer Vision Engineer</h3>
 
 <br/>
+
 <a href="#">
- <img align="right" src="https://github.com/sandipanrakshit34/sandipanrakshit34/blob/main/engineer.gif" height ="180" />
+ <img align="right" src="https://github.com/sandipanrakshit34/sandipanrakshit34/blob/main/engineer.gif" height ="200" width="330"/>
  </a>
- <p align="left">
-     🌱 I’m currently learning Docker, Supabase, AWS, Java, Oracle, Azure
+ <div align="left">
+<p> 🌱 I’m currently learning Docker, Supabase, AWS, Java, Oracle, Azure
 
 💬 Ask me about **Node.js, React, Firebase, Computer Vision, Python, MySQL, <br>
 Mongodb, Tensorflow, AI&ML... or anything&nbsp;[here...](https://github.com/sandipanrakshit34)** 
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs** </p>
-
+</div>
  
 <div align="left"> 
   <a href="mailto:sandipanrakshit6@gmail.com">
@@ -36,7 +37,7 @@ Mongodb, Tensorflow, AI&ML... or anything&nbsp;[here...](https://github.com/sand
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_main" />
   </a>&nbsp&nbsp
   <a href="https://sandipanrakshit.netlify.app/" target="_main">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_main" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_main" /> 
   </a>
 </div>
 <br>
@@ -44,16 +45,42 @@ Mongodb, Tensorflow, AI&ML... or anything&nbsp;[here...](https://github.com/sand
 
 <h2 align="center">🔃 Connect with me: 🔃</h2>
 <br/>
-<div> 
-<p align="center">
-<a href="https://twitter.com/@s_rakshit_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@s_rakshit_" height="30" width="40" /></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="https://linkedin.com/in/sandipan-rakshit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandipan-rakshit" height="30" width="40" /></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="https://fb.com/sandipan.rakshit.9z674" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sandipan.rakshit.9z674" height="30" width="40" /></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="https://instagram.com/i_m_dipan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_m_dipan_" height="30" width="40" /></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="https://www.hackerrank.com/sandipan34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sandipan34" height="30" width="40" /></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="https://www.leetcode.com/sandipan34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sandipan34" height="30" width="40" /></a>
-</p>
-</div>
+<div align="center">
+        <table style="border-collapse: collapse; border: none;">
+            <tr>
+                <td style="border: none;">
+                    <a href="https://twitter.com/@s_rakshit_" target="_blank">
+                        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@s_rakshit_" height="30" width="40" />
+                    </a>
+                </td>
+                <td style="border: none; ">
+                    <a href="https://linkedin.com/in/sandipan-rakshit" target="_blank">
+                        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandipan-rakshit" height="30" width="40" />
+                    </a>
+                </td>
+                <td style="border: none;">
+                    <a href="https://fb.com/sandipan.rakshit.9z674" target="_blank">
+                        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sandipan.rakshit.9z674" height="30" width="40" />
+                    </a>
+                </td>
+                <td style="border: none;">
+                    <a href="https://instagram.com/i_m_dipan_" target="_blank">
+                        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_m_dipan_" height="30" width="40" />
+                    </a>
+                </td>
+                <td style="border: none;">
+                    <a href="https://www.hackerrank.com/sandipan34" target="_blank">
+                        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sandipan34" height="30" width="40" />
+                    </a>
+                </td>
+                <td style="border: none;">
+                    <a href="https://www.leetcode.com/sandipan34" target="_blank">
+                        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sandipan34" height="30" width="40" />
+                    </a>
+                </td>
+            </tr>
+        </table>
+    </div>
 
  <hr/>
  
