@@ -1,4 +1,4 @@
-<a href="https://github.com/sandipanrakshit34">
+<a href="#">
     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandipanrakshit34&label=Profile%20views&color=0e75b6&style=flat" alt="sandipanrakshit34" /> </p>
 
@@ -16,7 +16,7 @@
 <h3 align="center">A passionate software developer and Computer Vision Engineer</h3>
 
 <br/>
-<a href="https://github.com/sandipanrakshit34">
+<a href="#">
  <img align="right" src="https://github.com/sandipanrakshit34/sandipanrakshit34/blob/main/engineer.gif" height ="180" />
  </a>
  <p align="left">
@@ -60,7 +60,7 @@ Mongodb, Tensorflow, AI&ML... or anything&nbsp;[here...](https://github.com/sand
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <a href="https://github.com/sandipanrakshit34">
+    <a href="#">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r,azure" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,cpp,java,nextjs,mysql,flask" /><br>
     </a>
@@ -72,7 +72,7 @@ Mongodb, Tensorflow, AI&ML... or anything&nbsp;[here...](https://github.com/sand
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-<a href="https://github.com/sandipanrakshit34">
+<a href="#">
   <img alt="snake eating my contributions" src="https://github.com/sandipanrakshit34/sandipanrakshit34/blob/main/github-contribution-grid-snake-dark.svg" />
     </a>
   </br></br>
