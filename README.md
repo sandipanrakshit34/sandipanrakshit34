@@ -85,8 +85,8 @@ Mongodb, Tensorflow, AI&ML or anything&nbsp;[here...](https://github.com/sandipa
 <br/>
 <div align="center">
     <a href="#">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r,azure" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,cpp,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,linux,vscode,github,figma,tailwind,git,r,azure,matlab" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,cpp,java,nextjs,mysql,flask,pytorch" /><br>
     </a>
 </div>
 
