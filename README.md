@@ -5,7 +5,7 @@
 </a>
 <a href="#">
     
-![logo](https://github.com/sandipanrakshit34/sandipanrakshit34/blob/main/Sandipan_Rakshit.png)
+<img src="https://github.com/sandipanrakshit34/sandipanrakshit34/blob/main/Sandipan_Rakshit.gif" /> 
 
 </a>
 <h1 align="center">
