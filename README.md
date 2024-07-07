@@ -92,7 +92,7 @@ Mongodb, Tensorflow, AI&ML or anything&nbsp;[here...](https://github.com/sandipa
 
 <br/>
 <hr/>
-
+<!--
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
@@ -102,7 +102,7 @@ Mongodb, Tensorflow, AI&ML or anything&nbsp;[here...](https://github.com/sandipa
   </br></br>
 </div>
 <hr/>
-
+-->
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
