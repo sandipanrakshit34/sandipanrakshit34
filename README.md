@@ -28,7 +28,7 @@
 **💬 Ask me about MERN, Firebase, Computer Vision, Python, MySQL, <br>
 Mongodb, Tensorflow, AI&ML or anything&nbsp;[here...](https://sandipanrakshit.netlify.app/)** 
 
-**⚡ Fun fact Game of Thrones Night's Watch cloaks are made from Ikea rugs** </p>
+**🔭 I’m looking to collaborate on Data Science and Machine Learning projects** </p>
 </div>
  
 <div align="left"> 
