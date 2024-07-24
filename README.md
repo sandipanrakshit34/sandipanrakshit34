@@ -18,7 +18,7 @@
 <br/>
 
 <a href="#">
- <img align="right" src="https://github.com/sandipanrakshit34/sandipanrakshit34/blob/main/engineer.gif" height ="220" width="335"/>
+ <img align="right" src="https://github.com/sandipanrakshit34/sandipanrakshit34/blob/main/engineer.gif" height ="205" width="335"/>
  </a>
  <div align="left">
 <p>
