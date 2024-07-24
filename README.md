@@ -21,9 +21,9 @@
  <img align="right" src="https://github.com/sandipanrakshit34/sandipanrakshit34/blob/main/engineer.gif" height ="200" width="335"/>
  </a>
  <div align="left">
-<p> 🌱 I’m currently learning Docker, Supabase, AWS, Java, Oracle, Azure
+<p>🌱 I’m currently learning Docker, Supabase, AWS, Java, Oracle, Azure
 
-💬 Ask me about **Node.js, React, Firebase, Computer Vision, Python, MySQL, <br>
+**💬 Ask me about MERN, Firebase, Computer Vision, Python, MySQL, <br>
 Mongodb, Tensorflow, AI&ML or anything&nbsp;[here...](https://github.com/sandipanrakshit34)** 
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs** </p>
