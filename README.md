@@ -99,7 +99,7 @@ Mongodb, Tensorflow, AI&ML or anything&nbsp;[here...](https://sandipanrakshit.ne
   <h2>🐍 My Contributions 🐍</h2>
   <br>
 <a href="#">
-  <img alt="snake eating my contributions" src="https://github.com/sandipanrakshit34/sandipanrakshit34/blob/main/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake eating my contributions" src="https://github.com/sandipanrakshit34/sandipanrakshit34/blob/main/github-snake.svg" />
     </a>
   </br></br>
 </div>
