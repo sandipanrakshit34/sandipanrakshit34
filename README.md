@@ -23,7 +23,7 @@
  <div align="left">
 <p>
     
-🌱 I’m currently learning Go Lang, Docker, Supabase, AWS, Oracle, Azure
+**🌱 I’m currently learning Go Lang, Docker, Supabase, AWS, Oracle, Azure**
 
 **💬 Ask me about MERN, Firebase, Computer Vision, Python, MySQL, <br>
 Mongodb, Tensorflow, AI&ML or anything&nbsp;[here...](https://sandipanrakshit.netlify.app/)** 
