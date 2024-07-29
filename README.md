@@ -124,7 +124,7 @@ Mongodb, Tensorflow, AI&ML or anything&nbsp;[here...](https://sandipanrakshit.ne
   <br>
 <hr/>
 <div align="center">
-    <a href="#">
+    <a href="same">
         <img alt="thanks for visiting!" src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=34F700&&size=26&&duration=2600&center=true&vCenter=true&width=300&lines=Thanks+for+visiting!;Have+a+good+day!">
     </a>
 </div>
