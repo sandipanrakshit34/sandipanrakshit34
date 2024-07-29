@@ -97,7 +97,7 @@ Mongodb, Tensorflow, AI&ML or anything&nbsp;[here...](https://sandipanrakshit.ne
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
+
 <a href="#">
   <img alt="snake eating my contributions" src="https://github.com/sandipanrakshit34/sandipanrakshit34/blob/main/github-snake.svg" />
     </a>
@@ -122,6 +122,13 @@ Mongodb, Tensorflow, AI&ML or anything&nbsp;[here...](https://sandipanrakshit.ne
     </a>
   </div>
   <br>
-  <br>
 <hr/>
-<br/>
+<div align="center">
+    <a href="#">
+        <img alt="thanks for visiting!" src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=34F700&&size=26&&duration=2600&center=true&vCenter=true&width=300&lines=Thanks+for+visiting!;Have+a+good+day!">
+    </a>
+</div>
+<br>
+<div align="center" ><a href="#"><img alt="" width="100%" src="https://github.com/sandipanrakshit34/sandipanrakshit34/blob/main/datascience.gif"></a></div>
+<br>
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=87CEEB&style=flat&logo" alt="back to top" /></a></p>
