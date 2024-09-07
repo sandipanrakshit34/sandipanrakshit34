@@ -10,7 +10,7 @@
 </a>
 <h1 align="center">
     <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=34F700&size=35&center=true&vCenter=true&width=500&height=70&duration=2600&lines=Hi+There!+👋;+I'm+Sandipan+Rakshit!;I'm+Data+Scientist;I'm+Software+Developer" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=34F700&size=35&center=true&vCenter=true&width=500&height=70&duration=2600&lines=Hi+There!+👋;+I'm+Sandipan+Rakshit!" />
     </a>
 </h1>
 <h2 align="center">A passionate software Developer / Data Scientist</h2>
