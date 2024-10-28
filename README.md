@@ -63,7 +63,7 @@ Mongodb, Tensorflow, AI&ML or anything&nbsp;[here...](https://sandipanrakshit.ne
                     </a>
                 </td>
                 <td style="border: none;">
-                    <a href="https://instagram.com/i_m_dipan_" target="_blank">
+                    <a href="https://instagram.com/sandipan_rakshit_" target="_blank">
                         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_m_dipan_" height="30" width="40" />
                     </a>
                 </td>
