@@ -26,7 +26,7 @@
 **🌱 I’m currently learning Go Lang, Docker, Supabase, AWS, Oracle, Azure**
 
 **💬 Ask me about MERN, Firebase, Computer Vision, Python, MySQL, <br>
-Mongodb, Tensorflow, AI&ML or anything&nbsp;[here...](https://sandipanrakshit.netlify.app/)** 
+Mongodb, Tensorflow, AI&ML or anything&nbsp;[here...](https://sandipanrakshit.vercel.app/)** 
 
 **🔭 I’m looking to collaborate on Data Science and Machine Learning projects** </p>
 </div>
@@ -47,14 +47,23 @@ Mongodb, Tensorflow, AI&ML or anything&nbsp;[here...](https://sandipanrakshit.ne
 <div align="center">
         <table style="border-collapse: collapse; border: none;">
             <tr>
-                <td style="border: none;">
-                    <a href="https://twitter.com/@s_rakshit_" target="_blank">
-                        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@s_rakshit_" height="30" width="40" />
-                    </a>
-                </td>
                 <td style="border: none; ">
                     <a href="https://linkedin.com/in/sandipan-rakshit" target="_blank">
                         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandipan-rakshit" height="30" width="40" />
+                    </a>
+                </td>
+                <td style="border: none;">
+                    <a href="https://www.leetcode.com/sandipan34" target="_blank">
+                       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sandipan34" height="30" width="40" />
+                </a>
+                <td style="border: none;">
+                    <a href="https://instagram.com/sandipan_rakshit_" target="_blank">
+                        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_m_dipan_" height="30" width="40" />
+                    </a>
+                </td>
+                <td style="border: none;">
+                    <a href="https://twitter.com/@s_rakshit_" target="_blank">
+                        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@s_rakshit_" height="30" width="40" />
                     </a>
                 </td>
                 <td style="border: none;">
@@ -62,20 +71,11 @@ Mongodb, Tensorflow, AI&ML or anything&nbsp;[here...](https://sandipanrakshit.ne
                         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sandipan.rakshit.9z674" height="30" width="40" />
                     </a>
                 </td>
-                <td style="border: none;">
-                    <a href="https://instagram.com/sandipan_rakshit_" target="_blank">
-                        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_m_dipan_" height="30" width="40" />
-                    </a>
-                </td>
-                <td style="border: none;">
+           <!--   <td style="border: none;">
                     <a href="https://www.hackerrank.com/sandipan34" target="_blank">
                         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sandipan34" height="30" width="40" />
                     </a>
-                </td>
-                <td style="border: none;">
-                    <a href="https://www.leetcode.com/sandipan34" target="_blank">
-                        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sandipan34" height="30" width="40" />
-                    </a>
+                </td>  -->
                 </td>
             </tr>
         </table>
