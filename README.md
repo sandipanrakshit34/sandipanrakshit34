@@ -5,7 +5,7 @@
 </a>
 <a href="#">
     
-<img src="Sandipan_Rakshit.gif" /> 
+<img src="assets/Sandipan_Rakshit.gif" /> 
 
 </a>
 <h1 align="center">
@@ -18,7 +18,7 @@
 <br/>
 
 <a href="#">
- <img align="right" src="engineer1.gif" height ="205" width="335"/>
+ <img align="right" src="assets/engineer1.gif" height ="205" width="335"/>
  </a>
  <div align="left">
 <p>
@@ -99,7 +99,7 @@ Mongodb, Tensorflow, AI&ML or anything&nbsp;[here...](https://sandipanrakshit.ve
   <h2>🐍 My Contributions 🐍</h2>
 
 <a href="#">
-  <img alt="snake eating my contributions" src="github-snake.svg" />
+  <img alt="snake eating my contributions" src="assets/github-snake.svg" />
     </a>
   </br></br>
 </div>
@@ -129,6 +129,6 @@ Mongodb, Tensorflow, AI&ML or anything&nbsp;[here...](https://sandipanrakshit.ve
     </a>
 </div>
 <br>
-<div align="center" ><a href="#"><img alt="" width="100%" src="https://github.com/sandipanrakshit34/sandipanrakshit34/blob/main/datascience.gif"></a></div>
+<div align="center" ><a href="#"><img alt="" width="100%" src="assets/datascience.gif"></a></div>
 <br>
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=87CEEB&style=flat&logo" alt="back to top" /></a></p>
