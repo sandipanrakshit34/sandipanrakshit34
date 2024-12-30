@@ -35,7 +35,7 @@ Mongodb, Tensorflow, AI&ML or anything&nbsp;[here...](https://sandipanrakshit.ve
   <a href="mailto:sandipanrakshit6@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>&nbsp&nbsp
-  <a href="https://sandipanrakshit.vercel.app/" target="_main">
+  <a href="https://sandipanrakshit.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_main" /> 
   </a>
 </div>
