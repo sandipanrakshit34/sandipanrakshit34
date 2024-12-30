@@ -32,7 +32,7 @@ Mongodb, Tensorflow, AI&ML or anything&nbsp;[here...](https://sandipanrakshit.ve
 </div>
  
 <div align="left"> 
-  <a href="mailto:sandipanrakshit6@gmail.com">
+  <a href="mailto:sandipanrakshit6@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>&nbsp&nbsp
   <a href="https://sandipanrakshit.vercel.app/" target="_blank">
