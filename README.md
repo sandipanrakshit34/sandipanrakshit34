@@ -95,47 +95,60 @@ Mongodb, Tensorflow, AI&ML or anything&nbsp;[here...](https://sandipanrakshit.ve
 
 <div align="center">
 
-<table>
-<tr>
-<td>
-
-### 👨‍💻 Professional Journey
-- 📚 Computer Science Student at **MCKV Institute of Engineering**
-- 🎯 Focusing on **Deep Learning** & **Computer Vision**
-- 🌱 Building robust **Backend Systems**
-- ⚡ Always exploring new technologies
-
-### 🛠️ Core Competencies
-- **AI/ML**: Deep Learning, Neural Networks, Computer Vision
-- **Backend**: Django, REST APIs, System Design
-- **Languages**: Python, JavaScript, Go, C++
-- **Databases**: PostgreSQL, MySQL
-
-</td>
-<td>
-
-### 💡 Skills Spotlight
-
-```text
+<table style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <!-- Professional Journey on the Left -->
+    <td style="border: none; vertical-align: top; padding: 20px;">
+      <table style="border: none; border-collapse: collapse;">
+        <tr style="border: none;">
+          <td style="border: none;">
+            <h3>👨‍💻 Professional Journey</h3>
+            <ul style="list-style: none; padding: 0; margin: 0;">
+              <li>📚 Computer Science Student at <b>MCKV Institute of Engineering</b></li>
+              <li>🎯 Focusing on <b>Deep Learning</b> & <b>Computer Vision</b></li>
+              <li>🌱 Building robust <b>Backend Systems</b></li>
+              <li>⚡ Always exploring new technologies</li>
+            </ul>
+            <h3>🛠️ Core Competencies</h3>
+            <ul style="list-style: none; padding: 0; margin: 0;">
+              <li><b>AI/ML</b>: Deep Learning, Neural Networks, Computer Vision</li>
+              <li><b>Backend</b>: Django, REST APIs, System Design</li>
+              <li><b>Languages</b>: Python, JavaScript, Go, C++</li>
+              <li><b>Databases</b>: PostgreSQL, MySQL</li>
+            </ul>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <!-- Skills Spotlight on the Right -->
+    <td style="border: none; vertical-align: top; padding: 20px;">
+      <table style="border: none; border-collapse: collapse;">
+        <tr style="border: none;">
+          <td style="border: none;">
+            <h3>💡 Skills Spotlight</h3>
+            <pre style="background: #f4f4f4; padding: 10px; border-radius: 5px; font-size: 14px; margin: 0;">
 Deep Learning    ███████████░░   90%
 Computer Vision  ██████████░░░   85%
 Backend Dev      ████████░░░░░   75%
 DevOps           ███████░░░░░░   65%
-```
-
-### 🎯 Goals 2024
-- 📱 Build 3 Major Projects
-- 📚 Master MLOps Pipeline
-- 🌐 Contribute to Open Source
-- 📖 Share Knowledge through Blogs
-
-</td>
-</tr>
+            </pre>
+            <h3>🎯 Goals 2024</h3>
+            <ul style="list-style: none; padding: 0; margin: 0;">
+              <li>📱 Build 3 Major Projects</li>
+              <li>📚 Master MLOps Pipeline</li>
+              <li>🌐 Contribute to Open Source</li>
+              <li>📖 Share Knowledge through Blogs</li>
+            </ul>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
 </table>
 
 </div>
+<hr>
 
----
 
 
 <div align="center">
@@ -254,18 +267,14 @@ DevOps           ███████░░░░░░   65%
 
 <hr>
 <h2 align="center">⚡ More About Me ⚡</h2>
-<div align=center>
-    
-🔭 Currently working on: **Deep Learning Projects**
-<br>
-🌱 Learning: **MLOps and System Design**
-<br>
-👯 Looking to collaborate on: **AI/ML Projects**
-<br>
-💬 Ask me about: **Python, Deep Learning, Computer Vision**
-<br>
-⚡ Fun fact: **I can code for hours with just coffee and music!**
-<br>
+<div align="center" style="font-size: 16px; line-height: 1.8;">
+
+🔭 <b>Currently working on:</b> Deep Learning Projects  
+🌱 <b>Learning:</b> MLOps and System Design  
+👯 <b>Looking to collaborate on:</b> AI/ML Projects  
+💬 <b>Ask me about:</b> Python, Deep Learning, Computer Vision  
+⚡ <b>Fun fact:</b> I can code for hours with just coffee and music!
+
 </div>
 <br>
 <div align="center" ><a href="#"><img alt="" width="100%" src="assets/datascience.gif"></a></div>
