@@ -206,7 +206,7 @@ DevOps           ███████░░░░░░   65%
     <td style="width: 100px; border: none;"></td>
     <!-- Hacker GIF on the Right -->
     <td align="center" valign="top" style="border: none;">
-      <img src="assets/engineer6.gif" alt="Hacker GIF" width="250"/>
+      <a href="#"><img src="assets/engineer6.gif" alt="Hacker GIF" width="250"/></a>
     </td>
   </tr>
 </table>
