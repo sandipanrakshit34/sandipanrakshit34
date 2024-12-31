@@ -14,7 +14,7 @@
     </a>
 </h1>
 <hr>
-<h2 align="center">A passionate AI Developer / Data Scientist</h2>
+<h2 align="center">A passionate AI Engineer / Data Scientist</h2>
 <br>
 <a href="#">
  <img align="right" src="assets/engineer1.gif" height ="205" width="335"/>
