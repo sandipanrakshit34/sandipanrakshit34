@@ -86,9 +86,8 @@ Mongodb, Tensorflow, AI&ML or anything&nbsp;[here...](https://sandipanrakshit.ve
 <div align="center">
 
 # 🚀 About Me 🚀
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3382ED&center=true&vCenter=true&random=false&width=600&lines=Deep+Learning+Explorer+%F0%9F%A7%A0;Computer+Vision+Enthusiast+%F0%9F%91%81%EF%B8%8F;Backend+Developer+%F0%9F%9B%A0%EF%B8%8F)](https://git.io/typing-svg)
-
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3382ED&center=true&vCenter=true&random=false&width=600&lines=AI+engineer;Software+Developer;Data+Scientists;Web Developer" >
+</a>
 
 </div>
 
@@ -267,6 +266,7 @@ DevOps           ███████░░░░░░   65%
 
 <hr>
 <h2 align="center">⚡ More About Me ⚡</h2>
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3382ED&center=true&vCenter=true&random=false&width=600&lines=Deep+Learning+Explorer+%F0%9F%A7%A0;Computer+Vision+Enthusiast+%F0%9F%91%81%EF%B8%8F;Backend+Developer+%F0%9F%9B%A0%EF%B8%8F" ></a>
 <div align="center" style="font-size: 16px; line-height: 1.8;">
 
 🔭 <b>Currently working on:</b> Deep Learning Projects  
