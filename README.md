@@ -13,10 +13,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=34F700&size=35&center=true&vCenter=true&width=500&height=70&duration=2600&lines=Hi+There!+👋;+I'm+Sandipan+Rakshit!" />
     </a>
 </h1>
-<h2 align="center">A passionate software Developer / Data Scientist</h2>
-
-<br/>
-
+<hr>
+<h2 align="center">A passionate AI Developer / Data Scientist</h2>
+<br>
 <a href="#">
  <img align="right" src="assets/engineer1.gif" height ="205" width="335"/>
  </a>
@@ -42,46 +41,6 @@ Mongodb, Tensorflow, AI&ML or anything&nbsp;[here...](https://sandipanrakshit.ve
 <br>
 <hr>
 
-<h2 align="center">🔃 Connect with me: 🔃</h2>
-<br/>
-<div align="center">
-        <table style="border-collapse: collapse; border: none;">
-            <tr>
-                <td style="border: none; ">
-                    <a href="https://linkedin.com/in/sandipan-rakshit" target="_blank">
-                        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandipan-rakshit" height="30" width="40" />
-                    </a>
-                </td>
-                <td style="border: none;">
-                    <a href="https://www.leetcode.com/sandipan34" target="_blank">
-                       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sandipan34" height="30" width="40" />
-                </a>
-                <td style="border: none;">
-                    <a href="https://instagram.com/sandipan_rakshit_" target="_blank">
-                        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_m_dipan_" height="30" width="40" />
-                    </a>
-                </td>
-                <td style="border: none;">
-                    <a href="https://twitter.com/@s_rakshit_" target="_blank">
-                        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@s_rakshit_" height="30" width="40" />
-                    </a>
-                </td>
-                <td style="border: none;">
-                    <a href="https://fb.com/sandipan.rakshit.9z674" target="_blank">
-                        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sandipan.rakshit.9z674" height="30" width="40" />
-                    </a>
-                </td>
-           <!--   <td style="border: none;">
-                    <a href="https://www.hackerrank.com/sandipan34" target="_blank">
-                        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sandipan34" height="30" width="40" />
-                    </a>
-                </td>  -->
-                </td>
-            </tr>
-        </table>
-    </div>
-
- <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -124,11 +83,203 @@ Mongodb, Tensorflow, AI&ML or anything&nbsp;[here...](https://sandipanrakshit.ve
   <br>
 <hr/>
 <div align="center">
+<div align="center">
+
+# 🚀 About Me 🚀
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3382ED&center=true&vCenter=true&random=false&width=600&lines=Deep+Learning+Explorer+%F0%9F%A7%A0;Computer+Vision+Enthusiast+%F0%9F%91%81%EF%B8%8F;Backend+Developer+%F0%9F%9B%A0%EF%B8%8F)](https://git.io/typing-svg)
+
+
+</div>
+
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+### 👨‍💻 Professional Journey
+- 📚 Computer Science Student at **MCKV Institute of Engineering**
+- 🎯 Focusing on **Deep Learning** & **Computer Vision**
+- 🌱 Building robust **Backend Systems**
+- ⚡ Always exploring new technologies
+
+### 🛠️ Core Competencies
+- **AI/ML**: Deep Learning, Neural Networks, Computer Vision
+- **Backend**: Django, REST APIs, System Design
+- **Languages**: Python, JavaScript, Go, C++
+- **Databases**: PostgreSQL, MySQL
+
+</td>
+<td>
+
+### 💡 Skills Spotlight
+
+```text
+Deep Learning    ███████████░░   90%
+Computer Vision  ██████████░░░   85%
+Backend Dev      ████████░░░░░   75%
+DevOps           ███████░░░░░░   65%
+```
+
+### 🎯 Goals 2024
+- 📱 Build 3 Major Projects
+- 📚 Master MLOps Pipeline
+- 🌐 Contribute to Open Source
+- 📖 Share Knowledge through Blogs
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+
+<div align="center">
+
+## 🛠️ Tech Arsenal 🛠️
+<table style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <!-- Tech Stack Table on the Left -->
+    <td style="border: none;">
+      <table align="center" style="border: none; border-collapse: collapse;">
+        <tr style="border: none;">
+          <td align="center" width="96" style="border: none;">
+            <a href="#"><img src="assets/python.svg" alt="Python" width="65" height="65"/></a>
+            <br>Python
+          </td>
+          <td align="center" width="96" style="border: none;">
+            <a href="#"><img src="assets/django.svg" alt="Django" width="65" height="65"/></a>
+            <br>Django
+          </td>
+          <td align="center" width="96" style="border: none;">
+            <a href="#"><img src="assets/js.svg" alt="JavaScript" width="65" height="65"/></a>
+            <br>JavaScript
+          </td>
+          <td align="center" width="96" style="border: none;">
+            <a href="#"><img src="assets/go.svg" alt="Golang" width="65" height="65"/></a>
+            <br>Go
+          </td>
+        </tr>
+        <tr style="border: none;">
+          <td align="center" width="96" style="border: none;">
+            <a href="#"><img src="assets/cpp.svg" alt="C++" width="65" height="65"/></a>
+            <br>C++
+          </td>
+          <td align="center" width="96" style="border: none;">
+            <a href="#"><img src="assets/docker.svg" alt="Docker" width="65" height="65"/></a>
+            <br>Docker
+          </td>
+          <td align="center" width="96" style="border: none;">
+            <a href="#"><img src="assets/mysql.svg" alt="MySQL" width="65" height="65"/></a>
+            <br>MySQL
+          </td>
+          <td align="center" width="96" style="border: none;">
+            <a href="#"><img src="assets/github.svg" alt="GitHub" width="50" height="50"/></a>
+            <br>GitHub
+          </td>
+        </tr>
+        <tr style="border: none;">
+          <td align="center" width="96" style="border: none;">
+            <a href="#"><img src="assets/pytorch.svg" alt="PyTorch" width="65" height="65"/></a>
+            <br>PyTorch
+          </td>
+          <td align="center" width="96" style="border: none;">
+            <a href="#"><img src="assets/tensorflow.svg" alt="TensorFlow" width="65" height="65"/></a>
+            <br>TensorFlow
+          </td>
+          <td align="center" width="96" style="border: none;">
+            <a href="#"><img src="assets/opencv.svg" alt="OpenCV" width="65" height="65"/></a>
+            <br>OpenCV
+          </td>
+          <td align="center" width="96" style="border: none;">
+            <a href="#"><img src="assets/postgre.svg" alt="PostgreSQL" width="100" height="75"/></a>
+            <br>PostgreSQL
+          </td>
+        </tr>
+      </table>
+    </td>
+    <!-- Spacer and GIF -->
+    <td style="width: 100px; border: none;"></td>
+    <!-- Hacker GIF on the Right -->
+    <td align="center" valign="top" style="border: none;">
+      <img src="assets/engineer6.gif" alt="Hacker GIF" width="250"/>
+    </td>
+  </tr>
+</table>
+</div>
+<hr>
+
+<h2 align="center">🔃 Connect with me: 🔃</h2>
+<br/>
+<div align="center">
+        <table style="border-collapse: collapse; border: none;">
+            <tr>
+                <td style="border: none; ">
+                    <a href="https://linkedin.com/in/sandipan-rakshit" target="_blank">
+                        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandipan-rakshit" height="30" width="40" />
+                    </a>
+                </td>
+                <td style="border: none;">
+                    <a href="https://www.leetcode.com/sandipan34" target="_blank">
+                       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sandipan34" height="30" width="40" />
+                </a>
+                <td style="border: none;">
+                    <a href="https://instagram.com/sandipan_rakshit_" target="_blank">
+                        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_m_dipan_" height="30" width="40" />
+                    </a>
+                </td>
+                <td style="border: none;">
+                    <a href="https://twitter.com/@s_rakshit_" target="_blank">
+                        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@s_rakshit_" height="30" width="40" />
+                    </a>
+                </td>
+                <td style="border: none;">
+                    <a href="https://fb.com/sandipan.rakshit.9z674" target="_blank">
+                        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sandipan.rakshit.9z674" height="30" width="40" />
+                    </a>
+                </td>
+           <!--   <td style="border: none;">
+                    <a href="https://www.hackerrank.com/sandipan34" target="_blank">
+                        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sandipan34" height="30" width="40" />
+                    </a>
+                </td>  -->
+                </td>
+            </tr>
+        </table>
+    </div>
+
+<hr>
+<h2 align="center">⚡ More About Me ⚡</h2>
+<div align=center>
+    
+🔭 Currently working on: **Deep Learning Projects**
+<br>
+🌱 Learning: **MLOps and System Design**
+<br>
+👯 Looking to collaborate on: **AI/ML Projects**
+<br>
+💬 Ask me about: **Python, Deep Learning, Computer Vision**
+<br>
+⚡ Fun fact: **I can code for hours with just coffee and music!**
+<br>
+</div>
+<br>
+<div align="center" ><a href="#"><img alt="" width="100%" src="assets/datascience.gif"></a></div>
+ <hr/>
+<div align="center">
     <a href="#">
         <img alt="thanks for visiting!" src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=34F700&&size=26&&duration=2600&center=true&vCenter=true&width=300&lines=Thanks+for+visiting!;Have+a+good+day!">
     </a>
 </div>
-<br>
-<div align="center" ><a href="#"><img alt="" width="100%" src="assets/datascience.gif"></a></div>
+<div align="center">
+    <a href="#">
+        <img src="assets/footer.svg" width=100%/>
+    </a>
+</div>
+
 <br>
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=87CEEB&style=flat&logo" alt="back to top" /></a></p>
