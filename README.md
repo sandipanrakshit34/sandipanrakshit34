@@ -5,7 +5,7 @@
 </a>
 <a href="#">
     
-<img src="assets/Sandipan_Rakshit.gif" /> 
+<!-- <img src="assets/Sandipan_Rakshit.gif" /> -->
 
 </a>
 <h1 align="center">
