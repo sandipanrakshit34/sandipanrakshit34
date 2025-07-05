@@ -17,7 +17,7 @@
 <h2 align="center">A passionate AI Engineer / Data Scientist</h2>
 <br>
 <a href="#">
- <img align="right" src="assets/engineer1.gif" height ="500" width="300"/>
+ <img align="right" src="assets/engineer1.gif"  width="270" />
  </a>
  <div align="left">
 <p>
