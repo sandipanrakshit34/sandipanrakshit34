@@ -86,7 +86,8 @@ Mongodb, Tensorflow, AI&ML or anything&nbsp;[here...](https://sandipanrakshit.ve
 <div align="center">
 
 # 🚀 About Me 🚀
-<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3382ED&center=true&vCenter=true&random=false&width=600&lines=AI+engineer+🤖;Software+Developer+💻;Data+Scientists+📊;Web Developer+🌐" >
+<a href="#">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira&color=3382ED&&weight=600&size=28&center=true&vCenter=true&width=500&height=70&duration=2600&lines=Software+Developer+💻;+AI+engineer+🤖;+Data+Scientists+📊" />
 </a>
 
 </div>
