@@ -237,10 +237,6 @@ DevOps           ███████░░░░░░   65%
                     </a>
                 </td>
                 <td style="border: none;">
-                    <a href="https://www.leetcode.com/sandipan34" target="_blank">
-                       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sandipan34" height="30" width="40" />
-                </a>
-                <td style="border: none;">
                     <a href="https://instagram.com/sandipan_rakshit_" target="_blank">
                         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_m_dipan_" height="30" width="40" />
                     </a>
