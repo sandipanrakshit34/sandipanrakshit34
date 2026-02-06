@@ -13,7 +13,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=34F700&size=35&center=true&vCenter=true&width=500&height=70&duration=2600&lines=Hi+There!+👋;+I'm+Sandipan+Rakshit!" />
     </a>
 </h1>
-<hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2 align="center">A passionate AI Engineer / Data Scientist</h2>
 <br>
 <a href="#">
@@ -39,7 +39,7 @@ Mongodb, Tensorflow, AI&ML or anything&nbsp;[here...](https://sandipanrakshit.ve
   </a>
 </div>
 <br>
-<hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
@@ -52,7 +52,7 @@ Mongodb, Tensorflow, AI&ML or anything&nbsp;[here...](https://sandipanrakshit.ve
 </div>
 
 <br/>
-<hr/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -62,9 +62,9 @@ Mongodb, Tensorflow, AI&ML or anything&nbsp;[here...](https://sandipanrakshit.ve
     </a>
   </br></br>
 </div>
-<hr/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<!-- <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
     <a href="#">
@@ -73,17 +73,17 @@ Mongodb, Tensorflow, AI&ML or anything&nbsp;[here...](https://sandipanrakshit.ve
     <a href="#">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=sandipanrakshit34&show_icons=true&theme=react&border_color=61dafb&border_radius=10&rank_icon=github" />
     </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
+  </div> -->
+<!--  <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="#">
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandipanrakshit34&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&theme=react&border_color=61dafb&border_radius=10" />
     </a>
   </div>
   <br>
-<hr/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">-->
 <div align="center">
-<div align="center">
+<div align="center"> 
 
 # 🚀 About Me 🚀
 <a href="#">
@@ -147,7 +147,7 @@ DevOps           ███████░░░░░░   65%
 </table>
 
 </div>
-<hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
@@ -224,7 +224,7 @@ DevOps           ███████░░░░░░   65%
   </tr>
 </table>
 </div>
-<hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">🔃 Connect with me: 🔃</h2>
 <br/>
@@ -261,7 +261,7 @@ DevOps           ███████░░░░░░   65%
         </table>
     </div>
 
-<hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2 align="center">⚡ More About Me ⚡</h2>
 <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3382ED&center=true&vCenter=true&random=false&width=600&lines=Deep+Learning+Explorer+%F0%9F%A7%A0;Computer+Vision+Enthusiast+%F0%9F%91%81%EF%B8%8F;Backend+Developer+%F0%9F%9B%A0%EF%B8%8F" ></a>
 <div align="center" style="font-size: 16px; line-height: 1.8;">
@@ -275,7 +275,7 @@ DevOps           ███████░░░░░░   65%
 </div>
 <br>
 <div align="center" ><a href="#"><img alt="" width="100%" src="assets/datascience.gif"></a></div>
- <hr/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
     <a href="#">
         <img alt="thanks for visiting!" src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=34F700&&size=26&&duration=2600&center=true&vCenter=true&width=300&lines=Thanks+for+visiting!;Have+a+good+day!">
