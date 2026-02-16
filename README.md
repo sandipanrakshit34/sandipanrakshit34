@@ -64,28 +64,32 @@ Mongodb, Tensorflow, AI&ML or anything&nbsp;[here...](https://sandipanrakshit.ve
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- <h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-    <a href="#">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=sandipanrakshit34&theme=react&border_radius=10&border=61DAFB" />
-    </a>
-    <a href="#">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=sandipanrakshit34&show_icons=true&theme=react&border_color=61dafb&border_radius=10&rank_icon=github" />
-    </a>
-  </div> -->
-<!--  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="#">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandipanrakshit34&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&theme=react&border_color=61dafb&border_radius=10" />
-    </a>
-  </div>
-  <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">-->
-<div align="center">
-<div align="center"> 
+<h2 align="center">⚡ Stats ⚡</h2>
 
-# 🚀 About Me 🚀
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=sandipanrakshit34&show_icons=true&theme=radical" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=sandipanrakshit34&theme=radical" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sandipanrakshit34&layout=compact&theme=radical" 
+    alt="Top Languages"
+    width="400"
+  />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h2 align="center">🚀 About Me 🚀</h2>
+<div align="center">
 <a href="#">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira&color=3382ED&&weight=600&size=28&center=true&vCenter=true&width=500&height=70&duration=2600&lines=Software+Developer+💻;+AI+engineer+🤖;+Data+Scientists+📊" />
 </a>
@@ -263,7 +267,9 @@ DevOps           ███████░░░░░░   65%
 <img src="assets/line.gif">
 
 <h2 align="center">⚡ More About Me ⚡</h2>
+<div align="center">
 <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3382ED&center=true&vCenter=true&random=false&width=600&lines=Deep+Learning+Explorer+%F0%9F%A7%A0;Computer+Vision+Enthusiast+%F0%9F%91%81%EF%B8%8F;Backend+Developer+%F0%9F%9B%A0%EF%B8%8F" ></a>
+</div>    
 <div align="center" style="font-size: 16px; line-height: 1.8;">
 
 🔭 <b>Currently working on:</b> Deep Learning Projects  
