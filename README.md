@@ -15,7 +15,6 @@
 </h1>
 <img src="assets/line.gif">
 <h2 align="center">A passionate AI Engineer / Data Scientist</h2>
-<br>
 <table>
   <tr>
 <td width="65%" align="left" valign="top">
@@ -55,7 +54,6 @@ Data Science and Machine Learning projects
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-
 <a href="#">
   <img alt="snake eating my contributions" src="assets/github-snake.svg" />
     </a>
