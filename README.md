@@ -41,7 +41,7 @@ Data Science and Machine Learning projects
 </td>
 
 <td align="center">
-      <img src="assets/engineer1.gif" width="320" />
+      <img src="assets/engineer1.gif" width="auto" />
     </td>
 
   </tr>
