@@ -16,42 +16,41 @@
 <img src="assets/line.gif">
 <h2 align="center">A passionate AI Engineer / Data Scientist</h2>
 <br>
-<a href="#">
- <img align="right" src="assets/engineer1.gif"  width="270" />
- </a>
- <div align="left">
-<p>
-    
-**🌱 I’m currently learning Go Lang, Docker, Supabase, AWS, Oracle, Azure**
+<table>
+  <tr>
+<td width="65%" align="left" valign="top">
 
-**💬 Ask me about MERN, Firebase, Computer Vision, Python, MySQL, <br>
-Mongodb, Tensorflow, AI&ML or anything&nbsp;[here...](https://sandipanrakshit.vercel.app/)** 
+🌱 **I’m currently learning:**  
+Go Lang, Docker, Supabase, AWS, Oracle, Azure  
 
-**🔭 I’m looking to collaborate on Data Science and Machine Learning projects** </p>
-</div>
- 
-<div align="left"> 
-  <a href="mailto:sandipanrakshit6@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>&nbsp&nbsp
-  <a href="https://sandipanrakshit.vercel.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_main" /> 
-  </a>
-</div>
+💬 **Ask me about:**  
+MERN, Firebase, Computer Vision, Python, MySQL, MongoDB, TensorFlow, AI & ML or anything [here...](https://sandipanrakshit.vercel.app/)
+
+🔭 **I’m looking to collaborate on:**  
+Data Science and Machine Learning projects  
+
+
+<a href="mailto:sandipanrakshit6@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+</a>
+
+<a href="https://sandipanrakshit.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+</a>
+
+</td>
+
+<td align="center">
+      <img src="assets/engineer1.gif" width="320" />
+    </td>
+
+  </tr>
+</table>
+
 <br>
-<img src="assets/line.gif">
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <a href="#">
-    <img src="https://skillicons.dev/icons?i=python,cpp,java,gcp,ai,linux,matlab,aws,git,r,azure,mysql,docker" />
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,mongodb,express,react,angular,nodejs,nextjs,php,tailwind,tensorflow,firebase" /><br>
-    </a>
-</div>
 
-<br/>
 <img src="assets/line.gif">
+
 
 
 <div align="center">
@@ -99,13 +98,13 @@ Mongodb, Tensorflow, AI&ML or anything&nbsp;[here...](https://sandipanrakshit.ve
 
 <div align="center">
 
-<table style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
+<table >
+  <tr >
     <!-- Professional Journey on the Left -->
-    <td style="border: none; vertical-align: top; padding: 20px;">
-      <table style="border: none; border-collapse: collapse;">
-        <tr style="border: none;">
-          <td style="border: none;">
+    <td >
+      <table>
+        <tr >
+          <td >
             <h3>👨‍💻 Professional Journey</h3>
             <ul style="list-style: none; padding: 0; margin: 0;">
               <li>📚 Computer Science Student at <b>MCKV Institute of Engineering</b></li>
@@ -125,10 +124,10 @@ Mongodb, Tensorflow, AI&ML or anything&nbsp;[here...](https://sandipanrakshit.ve
       </table>
     </td>
     <!-- Skills Spotlight on the Right -->
-    <td style="border: none; vertical-align: top; padding: 20px;">
-      <table style="border: none; border-collapse: collapse;">
-        <tr style="border: none;">
-          <td style="border: none;">
+    <td >
+      <table >
+        <tr >
+          <td >
             <h3>💡 Skills Spotlight</h3>
             <pre style="background: #f4f4f4; padding: 10px; border-radius: 5px; font-size: 14px; margin: 0;">
 Deep Learning    ███████████░░   90%
@@ -157,13 +156,13 @@ DevOps           ███████░░░░░░   65%
 <div align="center">
 
 ## 🛠️ Tech Arsenal 🛠️
-<table style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
+<table >
+  <tr >
     <!-- Tech Stack Table on the Left -->
-    <td style="border: none;">
-      <table align="center" style="border: none; border-collapse: collapse;">
-        <tr style="border: none;">
-          <td align="center" width="96" style="border: none;">
+    <td>
+      <table>
+        <tr >
+          <td>
             <a href="#"><img src="assets/python.svg" alt="Python" width="65" height="65"/></a>
             <br>Python
           </td>
@@ -219,9 +218,9 @@ DevOps           ███████░░░░░░   65%
       </table>
     </td>
     <!-- Spacer and GIF -->
-    <td style="width: 100px; border: none;"></td>
+    <td ></td>
     <!-- Hacker GIF on the Right -->
-    <td align="center" valign="top" style="border: none;">
+    <td >
       <a href="#"><img src="assets/engineer6.gif" alt="Hacker GIF" width="250"/></a>
     </td>
   </tr>
@@ -232,24 +231,24 @@ DevOps           ███████░░░░░░   65%
 <h2 align="center">🔃 Connect with me: 🔃</h2>
 <br/>
 <div align="center">
-        <table style="border-collapse: collapse; border: none;">
+        <table >
             <tr>
-                <td style="border: none; ">
+                <td >
                     <a href="https://linkedin.com/in/sandipan-rakshit" target="_blank">
                         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandipan-rakshit" height="30" width="40" />
                     </a>
                 </td>
-                <td style="border: none;">
+                <td >
                     <a href="https://instagram.com/sandipan_rakshit_" target="_blank">
                         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_m_dipan_" height="30" width="40" />
                     </a>
                 </td>
-                <td style="border: none;">
+                <td >
                     <a href="https://twitter.com/@s_rakshit_" target="_blank">
                         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@s_rakshit_" height="30" width="40" />
                     </a>
                 </td>
-                <td style="border: none;">
+                <td >
                     <a href="https://fb.com/sandipan.rakshit.9z674" target="_blank">
                         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sandipan.rakshit.9z674" height="30" width="40" />
                     </a>
